@@ -38,10 +38,10 @@ const config = {
     // You can added more features if need add
   ],
   //Bot Features
-  serverCount: 60+, //-  - Your
-  memberCount: 5000+, //--   - Bot
+  serverCount: 60, //-  - Your
+  memberCount: 5000, //--   - Bot
   executedCommand: 27000, //--  - Stats
-  availableCommand: 150+, //---   - Here
+  availableCommand: 150, //---   - Here
   //Do not change if you don't know about them
   discordLogo: (
     <FaDiscord className="h-10 w-10 text-[#738adb] hover:scale-125 easeIn cursor-pointer" />
