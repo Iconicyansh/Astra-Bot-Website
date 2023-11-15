@@ -24,9 +24,9 @@ const config = {
       logo: <SiProbot className="h-10 w-10" />,
     },
     {
-      name: "Automation",
+      name: "Fun",
       description:
-        "Automation describes a wide range of technologies that reduce  human intervention in processes.",
+        "Fun is the thing that experience you extreme joy.",
       logo: <TbMessage2Code className="h-10 w-10" />,
     },
     {
