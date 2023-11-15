@@ -35,6 +35,11 @@ const config = {
         "Greeter is the person who greet the new person in an unique and great way",
       logo: <CgCrown className="h-10 w-10" />,
     },
+    {
+      name: "Levels",
+      description: 
+        "Levels express the progress of a player and give the player joy",
+},
     // You can added more features if need add
   ],
   //Bot Features
